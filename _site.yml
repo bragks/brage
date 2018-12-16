@@ -1,0 +1,13 @@
+name: "brage"
+title: "brage"
+description: |
+  brage
+output_dir: "_site"
+base_url: https://brage.rbind.io/
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: radix::radix_article
