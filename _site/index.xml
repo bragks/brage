@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>brage</title>
+    <link>https://brage.rbind.io/</link>
+    <atom:link href="https://brage.rbind.io/index.xml" rel="self" type="application/rss+xml"/>
+    <description>brage
+</description>
+    <generator>Radix</generator>
+    <lastBuildDate>Sun, 16 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to brage</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://brage.rbind.io/posts/welcome</link>
+      <description>Welcome to our new blog, brage. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://brage.rbind.io/posts/welcome</guid>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Test</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://brage.rbind.io/posts/2018-12-16-test</link>
+      <description>A short description of the post.</description>
+      <guid>https://brage.rbind.io/posts/2018-12-16-test</guid>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

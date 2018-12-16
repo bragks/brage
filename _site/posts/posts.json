@@ -13,5 +13,20 @@
     "categories": [],
     "preview": {},
     "last_modified": "2018-12-16T21:12:38+01:00"
+  },
+  {
+    "path": "posts/2018-12-16-test/",
+    "title": "Test",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2018-12-16",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2018-12-16T22:15:24+01:00"
   }
 ]
